@@ -13,7 +13,7 @@ An PowerFull Group Manager Bot. Written In Pytelethon.
 
 • A modular Telegram Python bot running on python3.
 
-• Can be found on telegram as [GroupMenter](https://t.me/supunma).
+• Can be found on telegram as [supun](https://t.me/supunma).
 
 • Alternatively, find me on telegram! (Keep all support questions in the support chat, where more people can help you.)
 
