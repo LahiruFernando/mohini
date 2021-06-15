@@ -74,25 +74,25 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-Hey there! My name is ** mohini 🤖**.
+Hey there! My name is ** Elina 🤖**.
 I'm here to help you manage your groups!
 Hit /help to find out more about how to use me to my full potential.
 
-Join My [News Channel](https://t.me/slbotzone) to get information on all the latest updates.
+Join My [Movie Group](https://t.me/Moviepisso) to get all around world Movies.
 """
 
 buttons = [
     [
         InlineKeyboardButton(
-            text="➕️ ADD TO YOUR GROUP ➕️", url="https://t.me/mohinislbz_bot?startgroup=true"),
+            text="➕️ ADD TO YOUR GROUP ➕️", url="https://t.me/Miss_ElinaBot?startgroup=true"),
     ],
     [
-        InlineKeyboardButton(text="🤖 Updates", url="https://t.me/slbotzone"),
-        InlineKeyboardButton(text="👥 SUPPORT", url="https://t.me/slbotzone"),
+        InlineKeyboardButton(text="🤖 Updates", url="https://t.me/Moviepisso"),
+        InlineKeyboardButton(text="👥 SUPPORT", url="https://t.me/Moviepisso"),
     ],
     [
         InlineKeyboardButton(
-            text="🛠  About", callback_data="mohini"),
+            text="🛠  About", callback_data="Elina"),
         InlineKeyboardButton(
             text="❔ Help", callback_data="help_back"
         ),
